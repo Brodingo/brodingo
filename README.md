@@ -1,11 +1,21 @@
 ## Hi there 👋
 
+- 🦋 I’m trapped inside a chrysallis
+- 🐍 I’m currently learning Python via [boot.dev](https://boot.dev)
+- 👯 I’m looking to collaborate on a comfy Minecraft server
+- 🤔 I’m looking for help with one final heist...
+- 💬 Ask me about text based RPGs
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brody-kwiatkowski/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Antarctica's area code is 672
+- 📉 No one and nothing is safe from entropy
+  
 <!--
 **Brodingo/brodingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
