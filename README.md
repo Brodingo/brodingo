@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🦋 I’m trapped inside a chrysallis
+- 🦋 I’m trapped inside a chrysalis
 - 🐍 I’m currently learning Python via [boot.dev](https://boot.dev)
 - 👯 I’m looking to collaborate on a comfy Minecraft server
 - 🤔 I’m looking for help with one final heist...
